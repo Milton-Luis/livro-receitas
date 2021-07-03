@@ -15,7 +15,8 @@ olá, bem vindo ao meu livro de receitas :wave:
 - Arroz arbório
 - cogumelos shimeji
 - truta
-
+- pimenta do reino
+- 
 
 
 
