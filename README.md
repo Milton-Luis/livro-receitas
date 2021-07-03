@@ -8,12 +8,6 @@ olá, bem vindo ao meu livro de receitas :wave:
 
   
 
-# Risoto de camarão com cogumelos e salmão grelhado 
-
-- Arroz arbório
-- cogumelos shimeji
-- salmão
-
 
 
 
