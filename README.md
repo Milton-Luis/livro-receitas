@@ -6,13 +6,15 @@ olá, bem vindo ao meu livro de receitas :wave:
 
 - Bife e ovo
 
+- pimenta do reino
+
   
 
-# Risoto de camarão com cogumelos e salmão grelhado 
+# Risoto de camarão com cogumelos e truta grelhada
 
 - Arroz arbório
 - cogumelos shimeji
-- salmão
+- truta
 
 
 
