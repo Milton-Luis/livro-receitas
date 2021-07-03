@@ -53,3 +53,8 @@ origin é apenas um apelido para não ter que toda hora ficar digitando o endere
 ### git push origin master
 origin = apelido
 master é a branch principal
+
+
+no github é ossível navegar pelos commits anteriores clicando em parents, isso se tiver uma numeração indicando comites anteriores
+
+na pasta base onde está o repoitório no github ao clicar em commits é possível ver tambpem o histórico de commits feitos, e clicando no SHA de algum commit é possível ver o conteúdo contido naquele commit
