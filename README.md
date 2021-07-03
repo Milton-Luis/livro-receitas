@@ -16,7 +16,7 @@ olá, bem vindo ao meu livro de receitas :wave:
 - cogumelos shimeji
 - truta
 - pimenta do reino
-- 
+- sal
 
 
 
