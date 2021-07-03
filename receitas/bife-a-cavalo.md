@@ -58,3 +58,12 @@ master é a branch principal
 no github é ossível navegar pelos commits anteriores clicando em parents, isso se tiver uma numeração indicando comites anteriores
 
 na pasta base onde está o repoitório no github ao clicar em commits é possível ver tambpem o histórico de commits feitos, e clicando no SHA de algum commit é possível ver o conteúdo contido naquele commit
+
+
+# tratando conflitos
+
+ao fazer o push para o repositório no servidor conflitos podem ocorrer, ainda mais quando foi feito em um mesmo arquivo que foi comitado e depois jogado no servidor, para ver quais são os conflitos basta usar o comando. 
+
+#### * git pull apelido brancnh * 
+ex: git pull origin master
+o git pull tra as informações do comite que gerou conflito
