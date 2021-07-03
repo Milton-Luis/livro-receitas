@@ -17,6 +17,7 @@ olá, bem vindo ao meu livro de receitas :wave:
 - truta
 - pimenta do reino
 - sal
+- vinagre balsamico
 
 
 
